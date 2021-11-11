@@ -1,0 +1,40 @@
+name: kaggle-pet
+channels:
+- conda-forge
+dependencies:
+- python>=3.8
+- pandas
+- pip
+- numpy=1.19
+- matplotlib
+- fastparquet
+- jupyter
+- ipykernel
+- tensorflow
+- scikit-learn=0.23.1
+- scipy
+- seaborn
+- keras
+- xgboost
+- jupyterlab
+- category_encoders
+- mlxtend
+- lightgbm
+- graphviz
+- plotly
+- tqdm
+- shap
+- bayesian-optimization
+- scikit-optimize
+- timm
+- opencv
+- pytorch
+- albumentations
+- pickle5
+- pip:
+  - cuml
+  - tez
+
+
+
+
