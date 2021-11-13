@@ -7,12 +7,12 @@
 - [Key concepts in machine learning](https://towardsdatascience.com/machine-learning-basics-part-1-a36d38c7916)
 - [How to win Kaggle competitions](https://docs.google.com/document/d/14KDMW_o1yflcZd4E0PSlKxzI68zdHG20Qz6X5wmkgSA/edit?usp=sharing)
 - [Coding Environment](https://docs.google.com/presentation/d/1cYZACKaB7e2vRZAv8Oe1GcVy6U_xBeOoeptJsl3KZtI/edit?usp=sharing)
-- [Python Tutorial #1: Basics Numpy]
-- [Python Tutorial #2: Basics Pandas]
+- [Python Tutorial #1: Basics Numpy](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_1_basic_numpy.ipynb)
+- [Python Tutorial #2: Basics Pandas](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_2_basic_pandas.ipynb)
 
 
 ### Week 2 (Nov 20) EDA & Feature Engineering
-- [Feature Engineering](https://docs.google.com/presentation/d/13gwvLolY0Ug_WKROeVYpHpblWhNhvmj3DskSxsu3Ta0/edit?usp=sharing)
+- [Feature Engineering]
 - [Python Tutorial #3: Basic data processing and visualization]
 - [Python Tutorial #4: Feature engineering]
 
