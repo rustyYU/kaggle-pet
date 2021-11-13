@@ -23,13 +23,13 @@
 
 ### Week 4 (Dec 4) Tree based models, Xgboost and LightGBM
 - [Python Tutorial #7: Decision Trees]
-- [Gini impurity in decision tree CART algorithm](https://victorzhou.com/blog/gini-impurity/)
+- [Gini impurity in decision tree CART algorithm]
 - [Python Tutorial #8: Xgboost & LightGBM]
-- [Gradient boosting explained](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
+- [Gradient boosting explained]
 
 ## Part II: NLP advanced models
 ### Week 5 (Dec 11) Deep neural network
-- [DNN](https://docs.google.com/presentation/d/1XcIfz7TBiMcuJSdHLzdzekB-GxCbHLu9V01tM3H9PFU/edit#slide=id.p)
+- [DNN]
 - [Python Tutorial #9: Deep NN]
 
 ### Week 6 (Dec 18) CNN
