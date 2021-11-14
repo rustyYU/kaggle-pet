@@ -1,4 +1,4 @@
-name: kaggle-pet
+name: quant-course
 channels:
 - conda-forge
 dependencies:
@@ -26,15 +26,6 @@ dependencies:
 - shap
 - bayesian-optimization
 - scikit-optimize
-- timm
-- opencv
-- pytorch
-- albumentations
-- pickle5
-- pip:
-  - cuml
-  - tez
-
 
 
 
