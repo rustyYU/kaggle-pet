@@ -15,9 +15,12 @@
 
 
 ### Week 2 (Nov 20) EDA & Feature Engineering
-- [Feature Engineering]
-- [Python Tutorial #3: Basic data processing and visualization]
-- [Python Tutorial #4: Feature engineering]
+- [Python Tutorial #3: Basic data processing and visualization](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_3_data_preprocessing_visualization.ipynb)
+- [Feature Engineering](https://docs.google.com/presentation/d/1R8DDZf6qIG2eKTtfGcW6kph-fpTm6m3NyQkYVNk77rg/edit?usp=sharing)
+- [Python Tutorial #4: Feature engineering](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_4_feature_engineering.ipynb)
+- Homework
+	- coding homework from Python Tutorial #3 and #4 notebooks
+	- install code environment using .yml file
 
 
 ### Week 3 (Nov 27) CV and linear models
